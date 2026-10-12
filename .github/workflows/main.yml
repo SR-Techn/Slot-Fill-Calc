@@ -1,0 +1,19 @@
+Slot-Fill-Calc/
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── assets/
+│           │   ├── app.js
+│           │   ├── gauges.json
+│           │   └── index.html
+│           └── java/
+│               └── com/evtools/slotfill/MainActivity.java
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+└── README.txt
